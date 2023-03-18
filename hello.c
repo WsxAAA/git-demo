@@ -6,4 +6,6 @@ int main() {
     printf("hot-fix   text");
     //github中对文件进行修改
     printf("github    text");
+    printf("---------------------------------------------------");
+    printf("团队内写作");
 }
